@@ -184,10 +184,7 @@
    
    <body>
       
-  <div class="sign-in-section">
-   <h1>Leak Studio</h1>
-   </div>
-   
+  
    
 
 
