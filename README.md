@@ -1,9 +1,32 @@
+
 <html>
   <head>   
   <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/>
-  <title> NCash - Electr1fy </title>
+  <title> Leakstudio - beta </title>
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+  <link rel="search" type="application/opensearchdescription+xml" href="https://www.androidp1.com/index.php?do=opensearch" title="ANDROID™ PLUS 1 - Free download games and programs">
+  <link rel="canonical" href="https://www.androidp1.com/en/games/arcade/2658-roblox.html">
+  <link rel="alternate" type="application/rss+xml" title="ANDROID™ PLUS 1 - Free download games and programs" href="https://www.androidp1.com/en/rss.xml">
+  <link rel="alternate" hreflang="x-default" href="https://www.androidp1.com/games/arcade/2658-roblox.html" />
+  <link rel="alternate" hreflang="ru" href="https://www.androidp1.com/games/arcade/2658-roblox.html" />
+  <link rel="alternate" hreflang="en" href="https://www.androidp1.com/en/games/arcade/2658-roblox.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.androidp1.com/templates/andplus/img/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="https://www.androidp1.com/templates/andplus/img/favicon/android-chrome-192x192.png">   
+  <link rel="icon" type="image/png" sizes="32x32" href="https://www.androidp1.com/templates/andplus/img/favicon/favicon-48x48.png">    
+  <link rel="icon" type="image/png" sizes="32x32" href="https://www.androidp1.com/templates/andplus/img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://www.androidp1.com/templates/andplus/img/favicon/favicon-16x16.png">
+  <link rel="manifest" href="https://www.androidp1.com/templates/andplus/img/favicon/manifest.json">
+  <link rel="shortcut icon" href="https://www.androidp1.com/templates/andplus/img/favicon/favicon.ico" type="image/x-icon" />
+  <link rel="icon" href="https://www.androidp1.com/templates/andplus/img/favicon/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="https://www.androidp1.com/engine/classes/min/index.php?f=/templates/andplus/css/main.min.css,/templates/andplus/css/engine.css,/templates/andplus/css/other.css,/templates/andplus/css/rating.css">
+  
   <style type="text/css">
    
   body {
@@ -157,53 +180,62 @@
   }
   
    </style>
-   
-   
    </head>
    
    <body>
-  
-   
-  <div class="container">
-  <div class="form">
+      
   <div class="sign-in-section">
-   <h1>ELECTR1FY</h1>
-    
-  <ul>
-  <li><i class="fa fa-google"></i></li>
-  <li><i class="fa fa-facebook"></i></li>
-  <li><i class="fa fa-vk"></i></li>
-  </ul>
-  <p>or use your email</p>
-  <form action="ncash.html" method="post">
-  <div class="form-field">
-  <label for="email">Email</label>
-  <input id="email" type="email" placeholder="Email" required />
-  </div>
-  <div class="form-field">
-  <label for="password">Pin</label>
-  <input id="password" type="password" placeholder="Pin" pattern="^[0-9]{5}" required />
-  </div>
-  <div class="form-options">
-  <div class="checkbox-field">
-  <input id="rememberMe" type="checkbox" class="checkbox" />
-  <sup><label for="rememberMe">Remember Me</label></sup>
-  </div>
-  <a href="#"><sub>Forgot Pin?</sub></a>
-  </div>
-  <div class="form-field">
-  <input type="submit" class="btn btn-signin" value="Submit" />
-  </div>
-  </form>
+   <h1>Leak Studio</h1>
+   </div>
+   
+   
 
-  
-  <div class="links">
-  <a href="signup-leak-studio.html"><i class="fa fa-user-plus"></i> Create a new account</a>
 
-  </div>
-  </div>
-  </div>
-  </div>
+<div id='dle-content'>                    
+<div class="post-col" itemscope itemtype="http://schema.org/MobileApplication">
+<article class="post post--game">
+<h1 class="post__header">Download Minecraft</h1>
+<div class="post__info">
+<div class="post__image">
+<img src="https://www.androidp1.com/uploads/posts/2020-06/1592061279_minecraft-pocket-edition.webp" alt="minecraft">
+</div>
+<div class="post__chars">
+<p><span>Developer:</span><span>Mojang</span></p>
+<p itemprop="operatingSystem"><span>Android Version:</span><span>4.2+</span></p>
+<p itemprop="applicationCategory"><span>Updated on:</span><span> 25 July 2020</span></p>
+<p><span>The size:</span><span>118.9 Mb</span></p>
+<p><span>Interface language:</span><span>EN</span></p>
+<p itemprop="softwareVersion"><span>Current Version:</span><span>1.16.50.20</span></p>
+
+
+
+</div>
+<div class="post__rate">
+<div class="rating-wrap">
+<div class="rating-full"><div id='ratig-layer-2658'>
+<div class="rating" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+<ul class="unit-rating">
+<li class="current-rating" style="width:91%;">91</li>
+<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '2658'); return false;">1</a></li>
+<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '2658'); return false;">2</a></li>
+<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '2658'); return false;">3</a></li>
+<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '2658'); return false;">4</a></li>
+<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '2658'); return false;">5</a></li>
+</ul><meta itemprop="itemReviewed" content="Minecraft"><meta itemprop="worstRating" content="1"><meta itemprop="ratingCount" content="778"><meta itemprop="ratingValue" content="4.8"><meta itemprop="bestRating" content="5">
+</div>
+</div></div>
+<span class="score">4.6</span>
+<div class="post__votes">Total download:<span><span id="vote-num-id-2658">34</span></span></div>
+</div>
+<a href="https://drive.google.com/file/d/1-S2EAfIzLt9DU3wBJoENrd7SMRVo6o41/view" class="post__download" data-scroll><span>Download</span></a>
+</div>
+</div>
+
+
+</article>
+
+
+
   
   </body>
 </html>
